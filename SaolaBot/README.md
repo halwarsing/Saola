@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ```bash
 python Bot.py
 ```
+
+## Саола бот - https://halwarsing.net/id259
