@@ -4,7 +4,7 @@
 
 ## И библиотеки:
 ```bash
-pip install requests HalChat pycryptodomex
+pip install -r requirements.txt
 ```
 
 ## Чтобы запустить:
