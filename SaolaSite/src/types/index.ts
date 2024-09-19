@@ -1,0 +1,5 @@
+export * from 'src/types/profile'
+export * from 'src/types/news'
+export * from 'src/types/events'
+export * from 'src/types/lifehacks'
+export * from 'src/types/common'
